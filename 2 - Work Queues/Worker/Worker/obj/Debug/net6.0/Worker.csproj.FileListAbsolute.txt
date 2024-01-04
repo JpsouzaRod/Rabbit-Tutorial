@@ -1,0 +1,54 @@
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\bin\Debug\net6.0\Worker.exe
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\bin\Debug\net6.0\Worker.deps.json
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\bin\Debug\net6.0\Worker.runtimeconfig.json
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\bin\Debug\net6.0\Worker.dll
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\bin\Debug\net6.0\Worker.pdb
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\obj\Debug\net6.0\Worker.csproj.AssemblyReference.cache
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\obj\Debug\net6.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\obj\Debug\net6.0\Worker.AssemblyInfoInputs.cache
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\obj\Debug\net6.0\Worker.AssemblyInfo.cs
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\obj\Debug\net6.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\obj\Debug\net6.0\Worker.csproj.CopyComplete
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\obj\Debug\net6.0\Worker.dll
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\obj\Debug\net6.0\refint\Worker.dll
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\obj\Debug\net6.0\Worker.pdb
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\obj\Debug\net6.0\Worker.genruntimeconfig.cache
+C:\Users\W3as\Rabbit-Tutorial\Worker\Worker\obj\Debug\net6.0\ref\Worker.dll
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\bin\Debug\net6.0\Worker.exe
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\bin\Debug\net6.0\Worker.deps.json
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\bin\Debug\net6.0\Worker.runtimeconfig.json
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\bin\Debug\net6.0\Worker.dll
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\bin\Debug\net6.0\Worker.pdb
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.csproj.AssemblyReference.cache
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.AssemblyInfoInputs.cache
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.AssemblyInfo.cs
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.csproj.CopyComplete
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.dll
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\refint\Worker.dll
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.pdb
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.genruntimeconfig.cache
+C:\Users\W3as\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\ref\Worker.dll
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\bin\Debug\net6.0\Worker.exe
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\bin\Debug\net6.0\Worker.deps.json
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\bin\Debug\net6.0\Worker.runtimeconfig.json
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\bin\Debug\net6.0\Worker.dll
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\bin\Debug\net6.0\Worker.pdb
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.csproj.AssemblyReference.cache
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.AssemblyInfoInputs.cache
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.AssemblyInfo.cs
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.csproj.CopyComplete
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.dll
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\refint\Worker.dll
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.pdb
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\Worker.genruntimeconfig.cache
+C:\Users\W3as\source\repos\Rabbit-Tutorial\2 - Work Queues\Worker\Worker\obj\Debug\net6.0\ref\Worker.dll
